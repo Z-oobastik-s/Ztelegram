@@ -1,0 +1,65 @@
+name: ZTelegram
+version: '${version}'
+main: org.zoobastiks.ztelegram.ZTele
+api-version: 1.16
+depend: [Vault]
+authors: [Zoobastiks]
+description: Telegram integration for Minecraft server
+
+commands:
+  telegram:
+    description: Main command for ZTelegram plugin
+    usage: |
+      §6Usage:
+      §e/telegram §7- Show Telegram channel link
+      §e/telegram help §7- Show help menu
+      §e/telegram reload §7- Reload the plugin
+      §e/telegram reload game §7- Reload only game configuration
+      §e/telegram unregister <player> §7- Unregister a player
+      §e/telegram addplayer [player] §7- Hide player from Telegram messages
+      §e/telegram removeplayer [player] §7- Show player in Telegram messages
+      §e/telegram addchannel <1|2|3> <chatId> §7- Update channel ID
+      §e/telegram hidden §7- List all hidden players
+    aliases: [tg]
+    permission: ztelegram.command.use
+
+permissions:
+  ztelegram.command.use:
+    description: Allow using basic /telegram command
+    default: op
+  ztelegram.command.link:
+    description: Allow using /telegram to see Telegram link
+    default: op
+  ztelegram.command.help:
+    description: Allow using /telegram help
+    default: op
+  ztelegram.command.reload:
+    description: Allow using /telegram reload command
+    default: op
+  ztelegram.command.unregister:
+    description: Allow unregistering players with /telegram unregister
+    default: op
+  ztelegram.command.addplayer:
+    description: Allow hiding players from Telegram messages
+    default: op
+  ztelegram.command.removeplayer:
+    description: Allow showing players in Telegram messages
+    default: op
+  ztelegram.command.addchannel:
+    description: Allow updating channel IDs
+    default: op
+  ztelegram.command.hidden:
+    description: Allow viewing list of hidden players
+    default: op
+  ztelegram.command.link.use:
+    description: Allow linking Telegram account with /telegram link
+    default: true
+  ztelegram.command.unlink.use:
+    description: Allow unlinking Telegram account with /telegram unlink
+    default: op
+  ztelegram.command.blacklist:
+    description: Allow managing blacklist with /telegram blacklist
+    default: op
+  ztelegram.command.whitelist:
+    description: Allow managing whitelist with /telegram whitelist
+    default: op 

@@ -1,0 +1,13 @@
+# ZTelegram Players File
+# DO NOT EDIT MANUALLY!
+
+# List of hidden players (their events/chat will not be shown in Telegram)
+hidden-players: []
+
+# Registered players data
+players:
+  # Example format (will be filled automatically by the plugin):
+  # playername:
+  #   telegram-id: TelegramUsername
+  #   registered: 2023-01-01 12:00:00
+  #   gender: man # or girl 
