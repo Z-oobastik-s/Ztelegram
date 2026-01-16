@@ -1,0 +1,390 @@
+================================================================================
+                    ПРОПРИЕТАРНАЯ ЛИЦЕНЗИЯ НА ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ
+                    PROPRIETARY SOFTWARE LICENSE AGREEMENT
+================================================================================
+
+COPYRIGHT NOTICE
+Copyright (c) 2025 Zoobastiks
+All Rights Reserved Worldwide
+
+================================================================================
+                            ВАЖНОЕ УВЕДОМЛЕНИЕ
+                         IMPORTANT NOTICE
+================================================================================
+
+Данное программное обеспечение и весь связанный с ним исходный код, включая,
+но не ограничиваясь: кодом, алгоритмами, структурами данных, интерфейсами,
+документацией, конфигурационными файлами, графическими элементами, логотипами
+и любыми другими компонентами (далее - "Программное обеспечение"), являются
+собственностью Zoobastiks и защищены международными законами об авторском
+праве, включая Бернскую конвенцию об охране литературных и художественных
+произведений, Соглашение TRIPS Всемирной торговой организации, а также
+национальными законами об авторском праве всех стран мира.
+
+This software and all related source code, including but not limited to: code,
+algorithms, data structures, interfaces, documentation, configuration files,
+graphical elements, logos and any other components (hereinafter - "Software"),
+are the property of Zoobastiks and are protected by international copyright
+laws, including the Berne Convention for the Protection of Literary and
+Artistic Works, the TRIPS Agreement of the World Trade Organization, as well
+as national copyright laws of all countries worldwide.
+
+================================================================================
+                         УСЛОВИЯ ИСПОЛЬЗОВАНИЯ
+                         TERMS OF USE
+================================================================================
+
+1. ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ / GRANT OF LICENSE
+
+   Правообладатель (Zoobastiks) предоставляет вам ограниченную, неисключительную,
+   непередаваемую, отзывную лицензию на использование Программного обеспечения
+   исключительно в личных или коммерческих целях на вашем собственном Minecraft
+   сервере, при условии строгого соблюдения всех условий настоящего Соглашения.
+
+   The copyright holder (Zoobastiks) grants you a limited, non-exclusive,
+   non-transferable, revocable license to use the Software solely for personal
+   or commercial purposes on your own Minecraft server, subject to strict
+   compliance with all terms of this Agreement.
+
+2. СТРОГО ЗАПРЕЩЕНО / STRICTLY PROHIBITED
+
+   БЕЗ ПИСЬМЕННОГО РАЗРЕШЕНИЯ ПРАВООБЛАДАТЕЛЯ ВАМ СТРОГО ЗАПРЕЩАЕТСЯ:
+
+   WITHOUT WRITTEN PERMISSION FROM THE COPYRIGHT HOLDER, YOU ARE STRICTLY
+   PROHIBITED FROM:
+
+   2.1. Копирование, воспроизведение, дублирование или создание копий
+        Программного обеспечения или любой его части любыми способами и
+        средствами, включая электронные, механические, оптические или иные.
+
+        Copying, reproducing, duplicating or creating copies of the Software
+        or any part thereof by any means and methods, including electronic,
+        mechanical, optical or otherwise.
+
+   2.2. Распространение, публикация, передача, продажа, сдача в аренду,
+        лизинг или иное предоставление Программного обеспечения третьим
+        лицам в любой форме, включая, но не ограничиваясь: исходным кодом,
+        скомпилированными файлами, JAR-архивами, скриншотами, видео-демонстрациями.
+
+        Distributing, publishing, transferring, selling, renting, leasing or
+        otherwise providing the Software to third parties in any form,
+        including but not limited to: source code, compiled files, JAR archives,
+        screenshots, video demonstrations.
+
+   2.3. Модификация, адаптация, изменение, редактирование, декомпиляция,
+        дизассемблирование, реверс-инжиниринг, обход технических средств
+        защиты или иные попытки извлечения, изучения или изменения исходного
+        кода или логики работы Программного обеспечения.
+
+        Modifying, adapting, altering, editing, decompiling, disassembling,
+        reverse engineering, circumventing technical protection measures or
+        any other attempts to extract, study or change the source code or
+        logic of the Software.
+
+   2.4. Создание производных произведений, форков, ответвлений, модификаций,
+        плагинов-надстроек, дополнений или любых других работ, основанных
+        на Программном обеспечении или его части.
+
+        Creating derivative works, forks, branches, modifications, plugin
+        extensions, additions or any other works based on the Software or
+        any part thereof.
+
+   2.5. Использование названия, логотипа, торговых марок, доменных имен
+        или иных средств индивидуализации, связанных с Программным
+        обеспечением, без письменного разрешения.
+
+        Using the name, logo, trademarks, domain names or other means of
+        identification associated with the Software without written permission.
+
+   2.6. Удаление, изменение, сокрытие или искажение уведомлений об авторском
+        праве, лицензионных соглашений, информации о правообладателе или
+        иных правовых уведомлений, содержащихся в Программном обеспечении.
+
+        Removing, altering, concealing or distorting copyright notices,
+        license agreements, information about the copyright holder or other
+        legal notices contained in the Software.
+
+   2.7. Использование Программного обеспечения в целях, противоречащих
+        законодательству любой страны, включая, но не ограничиваясь:
+        мошенничество, обман, нарушение прав третьих лиц, распространение
+        вредоносного программного обеспечения.
+
+        Using the Software for purposes contrary to the laws of any country,
+        including but not limited to: fraud, deception, violation of third
+        party rights, distribution of malicious software.
+
+   2.8. Публикация, размещение или распространение Программного обеспечения
+        на любых платформах, сайтах, форумах, репозиториях, включая, но не
+        ограничиваясь: GitHub, GitLab, Bitbucket, SpigotMC, BukkitDev,
+        CurseForge, Modrinth, или любых других платформах без письменного
+        разрешения.
+
+        Publishing, posting or distributing the Software on any platforms,
+        websites, forums, repositories, including but not limited to: GitHub,
+        GitLab, Bitbucket, SpigotMC, BukkitDev, CurseForge, Modrinth, or any
+        other platforms without written permission.
+
+3. ТЕХНИЧЕСКИЕ СРЕДСТВА ЗАЩИТЫ / TECHNICAL PROTECTION MEASURES
+
+   Программное обеспечение может содержать технические средства защиты
+   авторских прав, включая, но не ограничиваясь: проверку целостности,
+   защиту от модификации, системы лицензирования, водяные знаки, цифровые
+   подписи. Любые попытки обхода, удаления или нарушения этих средств
+   защиты являются нарушением настоящего Соглашения и международного
+   законодательства.
+
+   The Software may contain technical measures for copyright protection,
+   including but not limited to: integrity checks, modification protection,
+   licensing systems, watermarks, digital signatures. Any attempts to bypass,
+   remove or violate these protection measures constitute a violation of
+   this Agreement and international legislation.
+
+4. ОТВЕТСТВЕННОСТЬ ЗА НАРУШЕНИЕ / LIABILITY FOR VIOLATION
+
+   4.1. ГРАЖДАНСКО-ПРАВОВАЯ ОТВЕТСТВЕННОСТЬ / CIVIL LIABILITY
+
+        В случае нарушения условий настоящего Соглашения нарушитель обязан
+        возместить правообладателю все причиненные убытки, включая:
+
+        In case of violation of the terms of this Agreement, the violator
+        is obliged to compensate the copyright holder for all damages caused,
+        including:
+
+        - Прямой ущерб (direct damages)
+        - Упущенную выгоду (lost profits)
+        - Репутационный ущерб (reputational damage)
+        - Расходы на правовую защиту (legal defense costs)
+        - Судебные издержки (court costs)
+        - Расходы на экспертизу (expert examination costs)
+
+        Размер компенсации определяется в соответствии с законодательством
+        страны, в которой находится нарушитель, и может составлять до
+        10,000,000 (десяти миллионов) долларов США или эквивалент в местной
+        валюте.
+
+        The amount of compensation is determined in accordance with the
+        legislation of the country where the violator is located, and may
+        amount to up to 10,000,000 (ten million) US dollars or equivalent
+        in local currency.
+
+   4.2. УГОЛОВНАЯ ОТВЕТСТВЕННОСТЬ / CRIMINAL LIABILITY
+
+        Нарушение авторских прав является уголовным преступлением во многих
+        странах мира и может повлечь за собой:
+
+        Copyright infringement is a criminal offense in many countries
+        worldwide and may result in:
+
+        - Уголовное преследование (criminal prosecution)
+        - Штрафы (fines)
+        - Лишение свободы на срок до 10 лет (imprisonment for up to 10 years)
+        - Конфискацию имущества (asset forfeiture)
+        - Запрет на занятие определенной деятельностью (prohibition of
+          certain activities)
+
+   4.3. АДМИНИСТРАТИВНАЯ ОТВЕТСТВЕННОСТЬ / ADMINISTRATIVE LIABILITY
+
+        Правообладатель оставляет за собой право обратиться в компетентные
+        органы любой страны для привлечения нарушителя к административной
+        ответственности, включая наложение административных штрафов.
+
+        The copyright holder reserves the right to apply to the competent
+        authorities of any country to bring the violator to administrative
+        liability, including the imposition of administrative fines.
+
+5. ПРАВОВЫЕ МЕРЫ ЗАЩИТЫ / LEGAL REMEDIES
+
+   Правообладатель оставляет за собой право применять любые правовые меры
+   защиты своих прав, включая, но не ограничиваясь:
+
+   The copyright holder reserves the right to apply any legal remedies to
+   protect their rights, including but not limited to:
+
+   5.1. Подачу исковых заявлений в суды любой юрисдикции
+        (Filing lawsuits in courts of any jurisdiction)
+
+   5.2. Обращение в правоохранительные органы
+        (Appealing to law enforcement agencies)
+
+   5.3. Подачу жалоб в административные органы
+        (Filing complaints with administrative authorities)
+
+   5.4. Подачу заявлений о нарушении на платформах размещения контента
+        (Filing takedown notices on content hosting platforms)
+
+   5.5. Применение процедур внесудебного урегулирования споров
+        (Application of alternative dispute resolution procedures)
+
+   5.6. Публикацию информации о нарушении в открытых источниках
+        (Publication of information about the violation in open sources)
+
+6. МЕЖДУНАРОДНОЕ ПРАВО / INTERNATIONAL LAW
+
+   Настоящее Соглашение регулируется и толкуется в соответствии с
+   международным правом, включая:
+
+   This Agreement is governed by and construed in accordance with
+   international law, including:
+
+   - Бернская конвенция об охране литературных и художественных произведений
+     (Berne Convention for the Protection of Literary and Artistic Works)
+   - Всемирная конвенция об авторском праве
+     (Universal Copyright Convention)
+   - Соглашение TRIPS Всемирной торговой организации
+     (TRIPS Agreement of the World Trade Organization)
+   - Директива ЕС об авторском праве в цифровую эпоху
+     (EU Copyright Directive)
+   - Закон США об авторском праве в цифровую эпоху (DMCA)
+     (US Digital Millennium Copyright Act)
+   - Национальные законы об авторском праве всех стран мира
+     (National copyright laws of all countries worldwide)
+
+7. ЮРИСДИКЦИЯ И ПРИМЕНИМОЕ ПРАВО / JURISDICTION AND APPLICABLE LAW
+
+   Любые споры, возникающие в связи с настоящим Соглашением или
+   Программным обеспечением, подлежат разрешению в соответствии с
+   законодательством страны, в которой находится нарушитель, а также
+   международным правом. Правообладатель оставляет за собой право
+   выбирать юрисдикцию для рассмотрения спора.
+
+   Any disputes arising in connection with this Agreement or the Software
+   shall be resolved in accordance with the legislation of the country where
+   the violator is located, as well as international law. The copyright
+   holder reserves the right to choose the jurisdiction for dispute resolution.
+
+8. ОТСУТСТВИЕ ГАРАНТИЙ / NO WARRANTIES
+
+   ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ "КАК ЕСТЬ" БЕЗ КАКИХ-ЛИБО
+   ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ:
+   ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ,
+   ОТСУТСТВИЯ НАРУШЕНИЯ ПРАВ ТРЕТЬИХ ЛИЦ. ПРАВООБЛАДАТЕЛЬ НЕ НЕСЕТ
+   ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ УБЫТКИ, УЩЕРБ ИЛИ ПОТЕРИ, ВОЗНИКШИЕ В
+   РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО
+   ОБЕСПЕЧЕНИЯ.
+
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO: WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF THIRD PARTY RIGHTS.
+   THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DAMAGES, LOSSES OR
+   LOSSES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+9. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ / LIMITATION OF LIABILITY
+
+   В МАКСИМАЛЬНОЙ СТЕПЕНИ, РАЗРЕШЕННОЙ ПРИМЕНИМЫМ ЗАКОНОДАТЕЛЬСТВОМ,
+   ПРАВООБЛАДАТЕЛЬ НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ КОСВЕННЫЕ, СЛУЧАЙНЫЕ,
+   СПЕЦИАЛЬНЫЕ, ШТРАФНЫЕ ИЛИ ПОСЛЕДУЮЩИЕ УБЫТКИ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ:
+   ПОТЕРЮ ДАННЫХ, ПРИБЫЛИ, ДЕЛОВОЙ РЕПУТАЦИИ ИЛИ ИНФОРМАЦИИ, ВОЗНИКШИЕ В
+   РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ПРОГРАММНОГО
+   ОБЕСПЕЧЕНИЯ.
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+   SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR
+   CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO: LOSS OF DATA, PROFITS,
+   BUSINESS REPUTATION OR INFORMATION, ARISING FROM THE USE OR INABILITY TO
+   USE THE SOFTWARE.
+
+10. ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ ЛИЦЕНЗИИ / TERMINATION OF LICENSE
+
+    Правообладатель оставляет за собой право немедленно прекратить действие
+    лицензии в случае нарушения любого из условий настоящего Соглашения.
+    После прекращения действия лицензии вы обязаны немедленно прекратить
+    использование Программного обеспечения и уничтожить все его копии.
+
+    The copyright holder reserves the right to immediately terminate the
+    license in case of violation of any of the terms of this Agreement.
+    After termination of the license, you must immediately cease using the
+    Software and destroy all copies thereof.
+
+11. УВЕДОМЛЕНИЕ О НАРУШЕНИИ / NOTICE OF VIOLATION
+
+    Если вы стали свидетелем нарушения авторских прав на Программное
+    обеспечение, пожалуйста, незамедлительно сообщите об этом правообладателю
+    по следующим контактам:
+
+    If you have witnessed a copyright infringement on the Software, please
+    immediately notify the copyright holder at the following contacts:
+
+    - Telegram: @Zoobastiks
+    - Email: zoobastiks.developer@gmail.com
+
+    Правообладатель гарантирует конфиденциальность информации о лицах,
+    сообщивших о нарушениях, и может предоставить вознаграждение за
+    информацию, приведшую к привлечению нарушителя к ответственности.
+
+    The copyright holder guarantees confidentiality of information about
+    persons who reported violations and may provide a reward for information
+    that led to bringing the violator to justice.
+
+12. СОГЛАСИЕ С УСЛОВИЯМИ / AGREEMENT TO TERMS
+
+    Используя Программное обеспечение, вы подтверждаете, что прочитали,
+    поняли и согласны соблюдать все условия настоящего Соглашения. Если
+    вы не согласны с какими-либо условиями, вы не имеете права использовать
+    Программное обеспечение и должны немедленно прекратить его использование
+    и уничтожить все копии.
+
+    By using the Software, you confirm that you have read, understood and
+    agree to comply with all terms of this Agreement. If you do not agree
+    with any of the terms, you have no right to use the Software and must
+    immediately cease using it and destroy all copies.
+
+13. ИЗМЕНЕНИЕ УСЛОВИЙ / MODIFICATION OF TERMS
+
+    Правообладатель оставляет за собой право изменять условия настоящего
+    Соглашения в любое время без предварительного уведомления. Изменения
+    вступают в силу с момента их публикации. Продолжение использования
+    Программного обеспечения после внесения изменений означает ваше
+    согласие с новыми условиями.
+
+    The copyright holder reserves the right to modify the terms of this
+    Agreement at any time without prior notice. Changes take effect from
+    the moment of their publication. Continued use of the Software after
+    changes are made means your agreement to the new terms.
+
+14. РАЗРЕШЕНИЕ НА ИСПОЛЬЗОВАНИЕ / PERMISSION TO USE
+
+    Для получения разрешения на использование, копирование, модификацию
+    или распространение Программного обеспечения в целях, не предусмотренных
+    настоящим Соглашением, необходимо обратиться к правообладателю с
+    письменным запросом.
+
+    To obtain permission to use, copy, modify or distribute the Software
+    for purposes not provided for in this Agreement, you must contact the
+    copyright holder with a written request.
+
+================================================================================
+                            КОНТАКТНАЯ ИНФОРМАЦИЯ
+                            CONTACT INFORMATION
+================================================================================
+
+Правообладатель / Copyright Holder: Zoobastiks
+Telegram: @Zoobastiks
+Email: zoobastiks.developer@gmail.com
+
+================================================================================
+                         ДАТА ВСТУПЛЕНИЯ В СИЛУ
+                         EFFECTIVE DATE
+================================================================================
+
+Настоящее Соглашение вступает в силу с момента первого использования
+Программного обеспечения и действует бессрочно до момента прекращения
+действия лицензии в соответствии с условиями настоящего Соглашения.
+
+This Agreement enters into force from the moment of first use of the
+Software and remains in effect indefinitely until the license is terminated
+in accordance with the terms of this Agreement.
+
+================================================================================
+
+ВНИМАНИЕ: Нарушение условий настоящего Соглашения влечет за собой серьезные
+юридические последствия, включая гражданскую, административную и уголовную
+ответственность в соответствии с законодательством вашей страны и
+международным правом.
+
+WARNING: Violation of the terms of this Agreement entails serious legal
+consequences, including civil, administrative and criminal liability in
+accordance with the legislation of your country and international law.
+
+================================================================================
+                    © 2025 Zoobastiks. All Rights Reserved.
+================================================================================

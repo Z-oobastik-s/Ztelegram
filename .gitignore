@@ -1,0 +1,6 @@
+reset_repo.bat 
+upload.bat 
+build/ 
+Команды.txt 
+*.token 
+*.secret 
